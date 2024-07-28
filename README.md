@@ -1,0 +1,1 @@
+## Test example throw java.lang.NullPointerException from proxied class method with generic type parameters.
